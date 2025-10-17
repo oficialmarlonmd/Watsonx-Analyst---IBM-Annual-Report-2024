@@ -14,8 +14,7 @@ O projeto foi desenvolvido como uma demonstração prática de habilidades em IA
 
 A aplicação possui uma interface web interativa construída com Gradio, permitindo que qualquer usuário faça perguntas em linguagem natural.
 
-![Demonstração do WatsonX Analyst](https://i.imgur.com/G5gS5pG.png) 
-*(Sugestão: Substitua este link de imagem por um upload de uma das suas próprias capturas de tela)*
+
 
 ---
 
@@ -36,6 +35,7 @@ Este projeto utiliza uma stack moderna focada no ecossistema de IA da IBM:
 * **Banco de Dados Vetorial:** ChromaDB (com persistência em disco)
 * **Interface de Usuário:** Gradio
 * **Linguagem:** Python 3.10
+<img width="1579" height="669" alt="Captura de tela 2025-10-17 103951" src="https://github.com/user-attachments/assets/1c2e8d4f-968b-44be-b38e-73ab7f514c5c" />
 
 ---
 
