@@ -1,5 +1,5 @@
 # Watsonx-Analyst---IBM-Annual-Report-2024
-IBM Annual Report 2024
+
 # WatsonX Analyst: Assistente de IA para Análise de Relatórios Corporativos
 
 Este repositório contém o código-fonte do "WatsonX Analyst", um assistente de IA interativo projetado para analisar e responder a perguntas complexas sobre documentos corporativos densos, utilizando o Relatório Anual de 2024 da IBM como fonte de conhecimento.
